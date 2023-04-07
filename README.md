@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZCrooks
 - 👀 I’m interested in front-end software development
-- 🌱 I’m currently learning HTML5, CSS3, and Javascript
+- 🌱 I’m currently learning HTML5, CSS3, Javascript, and React.
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me ... zachthedevguy@gmail.com
 
