@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @ZCrooks
-- 👀 I’m interested in front-end software development
-- 🌱 I’m currently learning HTML5, CSS3, Javascript, and React.
-- 💞️ I’m looking to collaborate on interesting projects
-- 📫 How to reach me ... zachthedevguy@gmail.com
+Hi, I’m Zach!👋
+
+Front-End Software developer based in Toronto, Canada. I am passionate about creating websites and apps that are responsive, accessibly, and aesthetically-pleasing.
+
+I am proficient in HTML, CSS, Javascript, React, and have a knack for Figma design. Currently loking to add NodeJS, ExpressJS, and MongoDB to my language stack.
+
+I am always looking forward for the opportunity to collaborate on new projects!
+📫 How to reach me ... zachthedevguy@gmail.com
 
 <!---
 ZCrooks/ZCrooks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
